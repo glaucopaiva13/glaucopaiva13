@@ -6,7 +6,7 @@
 - **Undergraduate student in Information Technology at UFRN**  
 - Focused on learning **software development and computing fundamentals**  
 - **Arch Linux enthusiast**
-- **Fan of **RPG Maker games**
+- **Fan of RPG Maker games**
 
 ---
 
